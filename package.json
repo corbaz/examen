@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "url": "https://github.com/corbaz/examen.git",
+    "type": "git"
+  },
   "directories": {
     "test": "test"
   },
@@ -11,6 +15,6 @@
     "1": "node soluciones/1.js",
     "test": "echo \"Error: no test \" && exit 1"
   },
-  "author": "",
+  "author": "Julio Corbaz",
   "license": "ISC"
 }
